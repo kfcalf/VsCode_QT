@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/trytq/Test6/build",
+  "command": "c:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/trytq/Test6/build/Test6_autogen/include_Debug -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Test6.dir\\Debug\\Test6_autogen\\mocs_compilation_Debug.cpp.obj -c D:\\trytq\\Test6\\build\\Test6_autogen\\mocs_compilation_Debug.cpp",
+  "file": "D:\\trytq\\Test6\\build\\Test6_autogen\\mocs_compilation_Debug.cpp",
+  "output": "CMakeFiles\\Test6.dir\\Debug\\Test6_autogen\\mocs_compilation_Debug.cpp.obj"
+},
+{
+  "directory": "D:/trytq/Test6/build",
+  "command": "c:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/trytq/Test6/build/Test6_autogen/include_Debug -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Test6.dir\\Debug\\main.cpp.obj -c D:\\trytq\\Test6\\main.cpp",
+  "file": "D:\\trytq\\Test6\\main.cpp",
+  "output": "CMakeFiles\\Test6.dir\\Debug\\main.cpp.obj"
+},
+{
+  "directory": "D:/trytq/Test6/build",
+  "command": "c:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/trytq/Test6/build/Test6_autogen/include_Debug -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Test6.dir\\Debug\\mainwindow.cpp.obj -c D:\\trytq\\Test6\\mainwindow.cpp",
+  "file": "D:\\trytq\\Test6\\mainwindow.cpp",
+  "output": "CMakeFiles\\Test6.dir\\Debug\\mainwindow.cpp.obj"
+},
+{
+  "directory": "D:/trytq/Test6/build",
+  "command": "c:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -ID:/trytq/Test6/build/Test6_autogen/include_Release -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\Test6.dir\\Release\\Test6_autogen\\mocs_compilation_Release.cpp.obj -c D:\\trytq\\Test6\\build\\Test6_autogen\\mocs_compilation_Release.cpp",
+  "file": "D:\\trytq\\Test6\\build\\Test6_autogen\\mocs_compilation_Release.cpp",
+  "output": "CMakeFiles\\Test6.dir\\Release\\Test6_autogen\\mocs_compilation_Release.cpp.obj"
+},
+{
+  "directory": "D:/trytq/Test6/build",
+  "command": "c:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -ID:/trytq/Test6/build/Test6_autogen/include_Release -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\Test6.dir\\Release\\main.cpp.obj -c D:\\trytq\\Test6\\main.cpp",
+  "file": "D:\\trytq\\Test6\\main.cpp",
+  "output": "CMakeFiles\\Test6.dir\\Release\\main.cpp.obj"
+},
+{
+  "directory": "D:/trytq/Test6/build",
+  "command": "c:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -ID:/trytq/Test6/build/Test6_autogen/include_Release -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\Test6.dir\\Release\\mainwindow.cpp.obj -c D:\\trytq\\Test6\\mainwindow.cpp",
+  "file": "D:\\trytq\\Test6\\mainwindow.cpp",
+  "output": "CMakeFiles\\Test6.dir\\Release\\mainwindow.cpp.obj"
+},
+{
+  "directory": "D:/trytq/Test6/build",
+  "command": "c:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/trytq/Test6/build/Test6_autogen/include_RelWithDebInfo -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\Test6.dir\\RelWithDebInfo\\Test6_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj -c D:\\trytq\\Test6\\build\\Test6_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "file": "D:\\trytq\\Test6\\build\\Test6_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "output": "CMakeFiles\\Test6.dir\\RelWithDebInfo\\Test6_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj"
+},
+{
+  "directory": "D:/trytq/Test6/build",
+  "command": "c:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/trytq/Test6/build/Test6_autogen/include_RelWithDebInfo -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\Test6.dir\\RelWithDebInfo\\main.cpp.obj -c D:\\trytq\\Test6\\main.cpp",
+  "file": "D:\\trytq\\Test6\\main.cpp",
+  "output": "CMakeFiles\\Test6.dir\\RelWithDebInfo\\main.cpp.obj"
+},
+{
+  "directory": "D:/trytq/Test6/build",
+  "command": "c:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/trytq/Test6/build/Test6_autogen/include_RelWithDebInfo -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\Test6.dir\\RelWithDebInfo\\mainwindow.cpp.obj -c D:\\trytq\\Test6\\mainwindow.cpp",
+  "file": "D:\\trytq\\Test6\\mainwindow.cpp",
+  "output": "CMakeFiles\\Test6.dir\\RelWithDebInfo\\mainwindow.cpp.obj"
+}
+]

@@ -1,0 +1,8 @@
+D:/trytq/Test6/build/CMakeFiles/Test6.dir
+D:/trytq/Test6/build/CMakeFiles/edit_cache.dir
+D:/trytq/Test6/build/CMakeFiles/rebuild_cache.dir
+D:/trytq/Test6/build/CMakeFiles/install.dir
+D:/trytq/Test6/build/CMakeFiles/install/local.dir
+D:/trytq/Test6/build/CMakeFiles/install/strip.dir
+D:/trytq/Test6/build/CMakeFiles/Test6_autogen_timestamp_deps.dir
+D:/trytq/Test6/build/CMakeFiles/Test6_autogen.dir

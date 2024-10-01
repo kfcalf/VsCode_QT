@@ -1,0 +1,17 @@
+# ninja log v5
+504	2203	7494163929388687	CMakeFiles/Test6.dir/Debug/mainwindow.cpp.obj	6751e01971145031
+1	502	7494163911889794	Test6_autogen/timestamp	42ff4b7fb8448a52
+1	502	7494163911889794	Test6_autogen/mocs_compilation_Debug.cpp	42ff4b7fb8448a52
+1	502	7494163911889794	D:/trytq/Test6/build/Test6_autogen/timestamp	42ff4b7fb8448a52
+503	2196	7494163929313027	CMakeFiles/Test6.dir/Debug/Test6_autogen/mocs_compilation_Debug.cpp.obj	557888da4d4d942
+1	502	7494163911889794	D:/trytq/Test6/build/Test6_autogen/mocs_compilation_Debug.cpp	42ff4b7fb8448a52
+506	2202	7494163929383730	CMakeFiles/Test6.dir/Debug/main.cpp.obj	1dbd51f52cf64683
+2203	2377	7494163931078504	Debug/Test6.exe	233b9f167b7a0f75
+7	438	7494499848623402	Test6_autogen/timestamp	42ff4b7fb8448a52
+7	438	7494499848623402	Test6_autogen/mocs_compilation_Debug.cpp	42ff4b7fb8448a52
+7	438	7494499848623402	D:/trytq/Test6/build/Test6_autogen/timestamp	42ff4b7fb8448a52
+7	438	7494499848623402	D:/trytq/Test6/build/Test6_autogen/mocs_compilation_Debug.cpp	42ff4b7fb8448a52
+438	2093	7494499865627203	CMakeFiles/Test6.dir/Debug/Test6_autogen/mocs_compilation_Debug.cpp.obj	557888da4d4d942
+441	2094	7494499865622243	CMakeFiles/Test6.dir/Debug/main.cpp.obj	1dbd51f52cf64683
+440	2117	7494499865840475	CMakeFiles/Test6.dir/Debug/mainwindow.cpp.obj	6751e01971145031
+2117	2297	7494499867605314	Debug/Test6.exe	233b9f167b7a0f75
